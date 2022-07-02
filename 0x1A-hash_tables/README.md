@@ -91,7 +91,9 @@ Function Prototypes:
 * **6. >>> del ht**
   * [6-hash_table_delete.c](./6-hasb_table_delete.c): C function that deletes a `hash_table_t` hash table.
 
-* **7. $ht['Betty'] = 'Holberton'** ![image](https://user-images.githubusercontent.com/99505029/177006800-18e85ffa-c95e-4d92-ad93-e9e4bc72e770.png)
+* **7. $ht['Betty'] = 'Holberton'** 
+
+![image](https://user-images.githubusercontent.com/99505029/177006800-18e85ffa-c95e-4d92-ad93-e9e4bc72e770.png)
 
   * [100-sorted_hash_table.c] ![image](https://user-images.githubusercontent.com/99505029/177006807-3e22dce6-b254-4d6f-a577-2226b711991e.png)
  (./100-sorted_hash_table.c): C functions that define a sorted hash table `shash_table_t`.

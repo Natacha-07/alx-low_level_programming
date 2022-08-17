@@ -1,7 +1,6 @@
 # C - Makefiles
 
-In this project, I practiced writing Makefiles.
-
+![image](https://user-images.githubusercontent.com/99505029/185146782-70662264-acfa-4b12-b4ae-aa7937f22773.png)
 ## Tests :heavy_check_mark:
 
 * [tests](./tests): Folder of test files.
